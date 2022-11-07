@@ -14,3 +14,10 @@ Options:
 - Press Enter to go to the next abstract.
 - Input `skip` to skip to the links at the end without displaying the abstracts.
 - Input `go` to quickly go through all of the abstracts.
+
+
+#### To be added:
+- Automated Pandas DF cleaner & describer (from a .csv file)
+- Twitch highlight video link aggregator & MP3 downloader
+- Audio signal processing & cleaning
+- Convert various data sources into MySQL database
